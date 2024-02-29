@@ -1,5 +1,5 @@
 # inventory2xls
-convert cisco show inventory file to xlsx file
+convert cisco show inventory file to xlsx file.
 
 usage:
 ter leng 0
